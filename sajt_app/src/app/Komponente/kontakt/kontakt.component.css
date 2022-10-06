@@ -1,0 +1,12 @@
+.add-new-item{
+    background-image: url('https://www.cvecarakazablanka.com/data/upload/zanimljivosti/suncokret.jpg');
+    background-repeat: repeat;
+    height: 100%;
+    position:fixed;
+    margin-top: 80px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: auto;
+  }
